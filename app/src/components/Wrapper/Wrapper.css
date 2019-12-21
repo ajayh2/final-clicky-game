@@ -1,0 +1,14 @@
+.wrapper {
+  /*background: rgb(175, 175, 175);*/
+  background-image: url('https://cdna.artstation.com/p/assets/images/images/006/852/210/large/jessa-otero-spongebob-background-jessaotero-the-grey-sanctuary.jpg?1501719712');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
